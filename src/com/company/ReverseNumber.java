@@ -4,7 +4,7 @@ public class ReverseNumber {
 
     public static void main(String[] args) {
         ReverseNo(1824);
-        System.out.println(sum+" ");
+        System.out.println(sum);
 
 
 
